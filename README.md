@@ -1,3 +1,4 @@
+<a href="https://biodrop.io/eddiejaoude" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
 # 💫 About Me: Hi 👋, I'm Robert Sven</h1>
 <h3 align="center">A passionate net core developer from United State.</h3>
 🌱 I’m currently learning netCore 8, Azure Functions, Blazor, Maui.
