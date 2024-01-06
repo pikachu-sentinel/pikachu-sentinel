@@ -1,6 +1,6 @@
 # 💫 Welcome, 👋 I'm Robert Sven</h1>
-<h3 align="center">An innovative & passionate net core developer from United State.🌱 I’m currently learning netCore 8, Azure Functions, Blazor, Maui.
-<img src="https://i.ibb.co/gSnHvjn/vector-3.webp" alt="vector-3" border="0" /></h3>
+<h3 align="center">An innovative & passionate net core developer from United State.🌱 I’m currently learning netCore 8, Azure Functions, Blazor, Maui.<br/>
+<img src="https://i.ibb.co/gSnHvjn/vector-3.webp" width="250px" alt="vector-3" border="0" /></h3>
 
 
 
