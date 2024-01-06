@@ -1,11 +1,10 @@
 # 👋 Welcome to visit my Profile!</h1>
 
 
-<table>
+<table border=0>
 <tr>
 <td valign="top" width="50%">
 
-### Frontend  
 <div align="center">
 <img src="https://i.ibb.co/gSnHvjn/vector-3.webp" width="250px" alt="vector-3" border="0" />
 </div>
@@ -13,7 +12,6 @@
 
 <td valign="top" width="50%">
 
-### Backend  
 <div align="center">  
 <h3 align="center">An innovative & passionate net core developer with 6+ years experience with c#, Asp.net Core, Docker and expertise in MERN stack. I am enjoying programming, helping Junior Developers, Contributing Open Source Project.<br/>
 </h3>
