@@ -1,5 +1,5 @@
 ![Header](./header-light.png)
-## Challenge to Full-Stack Web Development
+## Challenge to Full-Stack Web
 <table border=0>
 <tr>
 <td valign="top" width="50%">
@@ -16,7 +16,7 @@
 Senior .Net Engineer
 <br/> 
 <h3>
-Responsible for designing, developing, and maintaining scalable high performance software applications.
+Design, developing, and maintaining scalable high performance software applications.
 <h4>
 I am enjoying programming, helping Others, Contributing Open Source Project.
 
