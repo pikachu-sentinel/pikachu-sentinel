@@ -6,7 +6,7 @@
 <td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.ibb.co/gSnHvjn/vector-3.webp" width="250px" alt="vector-3" border="0" />
+<img src="./iog-re.png" width="250px" alt="vector-3" border="0" />
 </div>
 </td>
 <td valign="top" width="50%">
