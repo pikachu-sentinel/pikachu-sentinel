@@ -19,7 +19,7 @@ Senior Firmware Engineer
 <h3>
 Responsible for designing, developing, and maintaining scalable high performance software applications.
 <h4>
-I like ESP32, RP2040, nRF, NXP, Arduino, Raspberry Pi, RH850, Yocto, openWRT, buildroot for Automotive & Healthcare & Home Automation.
+I like ESP32, RP2040, nRF, NXP, Arduino, Raspberry Pi, RH850, FreeRTOS, Yocto, openWRT, buildroot for Automotive & Healthcare & Home Automation. Bluetooth, ZigBee, Thread, Wifi, MW Wireless communication is my  core competitives.
 
 <br/>
 </h4/>
