@@ -14,10 +14,10 @@
 
 <div align="center">  
 <h2 align="center">
-Senior Firmware Engineer
+Senior IoT Firmware Engineer
 <br/> 
 <h3>
-Responsible for designing, developing, and maintaining scalable high performance software applications.
+Design IoT Embedded Systems from PCB to Hardware Deisgn, Cloud IoT with AI.
 <h4>
 I like ESP32, RP2040, nRF, NXP, Arduino, Raspberry Pi, RH850, FreeRTOS, Yocto, openWRT, buildroot for Automotive & Healthcare & Home Automation. Bluetooth, ZigBee, Thread, Wifi, MW Wireless communication is my  core competitives.
 
