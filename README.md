@@ -1,4 +1,3 @@
-# Challenges = Top 1% 🚀 </h1>
 ![Header](./header.png)
 ## Challenge to Full-Stack Web Development
 <table border=0>
