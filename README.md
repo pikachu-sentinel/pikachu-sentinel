@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./header-bg.png)
 ## Challenge to Full-Stack Web Development
 <table border=0>
 <tr>
