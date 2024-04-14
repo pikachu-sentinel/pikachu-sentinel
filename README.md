@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://ibb.co/yNzVwdt" width="250px" alt="vector-3" border="0" />
+<img src="[https://ibb.co/yNzVwdt](https://i.ibb.co/XWnVhj1/iot-re.png)" width="250px" alt="vector-3" border="0" />
 </div>
 </td>
 <td valign="top" width="50%">
