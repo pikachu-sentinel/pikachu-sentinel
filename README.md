@@ -41,7 +41,7 @@ I like ESP32, RP2040, nRF, NXP, Arduino, Raspberry Pi, RH850, FreeRTOS, Yocto, o
 
 <div align="center">  
 <h2 align="center">
-Senior .Net Engineer
+Senior FullStack Engineer
 <br/> 
 <h3>
 Design, developing, and maintaining scalable high performance software applications.
