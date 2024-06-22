@@ -1,5 +1,6 @@
-![Header](./mybaner.jpg)
-
+<div align="center">
+<img src="./mybaner.jpg" align="center" style="width: 100%" />
+</div>  
 <table border=0>
 <tr>
 <td valign="top" width="50%">
