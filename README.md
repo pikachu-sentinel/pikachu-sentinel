@@ -29,8 +29,6 @@ I like ESP32, RP2040, nRF, NXP, Arduino, Raspberry Pi, RH850, FreeRTOS, Yocto, o
 </h3>
 </div>
 </td>
-</table>
-<table border=0>
 </tr>
 <tr>
 
