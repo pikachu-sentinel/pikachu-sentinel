@@ -1,4 +1,4 @@
-![Header](./mybanner.jpg)
+![Header](./mybaner.jpg)
 
 ## Challenge to IoT Firmware
 <table border=0>
