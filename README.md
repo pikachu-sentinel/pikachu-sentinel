@@ -30,8 +30,6 @@ I like ESP32, RP2040, nRF, NXP, Arduino, Raspberry Pi, RH850, FreeRTOS, Yocto, o
 </div>
 </td>
 </table>
-
-## Challenge to AI Full-Stack
 <table border=0>
 </tr>
 <tr>
