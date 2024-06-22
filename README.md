@@ -1,6 +1,5 @@
 ![Header](./mybaner.jpg)
 
-## Challenge to IoT Firmware
 <table border=0>
 <tr>
 <td valign="top" width="50%">
@@ -14,7 +13,7 @@
 
 <div align="center">  
 <h2 align="center">
-Senior IoT Firmware Engineer
+Senior IoT Engineer
 <br/> 
 <h3>
 Design IoT Embedded Systems from PCB to Hardware, Firmware, Cloud IoT with AI.
