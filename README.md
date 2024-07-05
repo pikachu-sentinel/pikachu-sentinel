@@ -37,7 +37,7 @@ I offer bespoke embedded software development services for ARM Cortex M/R/A proc
 
 <div align="center">  
 <h2 align="center">
-Senior FullStack Engineer
+FullStack Engineer
 <br/> 
 <h3>
 Design, developing, and maintaining scalable high performance software applications.
