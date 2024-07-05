@@ -19,7 +19,7 @@ Senior IoT Engineer
 <h3>
 Design IoT Embedded Systems from PCB to Hardware, Firmware, Cloud IoT with AI.
 <h4>
-I like ESP32, RP2040, nRF, NXP, Arduino, Raspberry Pi, RH850, FreeRTOS, Yocto, openWRT, buildroot for Automotive & Healthcare & Home Automation. Bluetooth, ZigBee, Thread, Wifi, MW Wireless communication is my  core competitives.
+I offer bespoke embedded software development services for ARM Cortex M/R/A processors, STM32 microcontrollers, ESP32 modules, nRF52 chips, Raspberry Pi platforms, FPGA configurations, RTOS applications, TinyML models and AWS IoT integrations. Ensure seamless integration with hardware components for optimized performance.
 
 <br/>
 </h4/>
