@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./mybaner2.jpg" align="center" style="width: 100%" />
+<img src="./mybanner2.jpg" align="center" style="width: 100%" />
 </div>  
 <table border=0>
 <tr>
