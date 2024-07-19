@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./mybaner.jpg" align="center" style="width: 100%" />
+<img src="./mybaner2.jpg" align="center" style="width: 100%" />
 </div>  
 <table border=0>
 <tr>
@@ -14,7 +14,7 @@
 
 <div align="center">  
 <h2 align="center">
-Senior IoT Engineer
+IoT Engineer
 <br/> 
 <h3>
 Design IoT Embedded Systems from PCB to Hardware, Firmware, Cloud IoT with AI.
