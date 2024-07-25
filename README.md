@@ -60,19 +60,17 @@ I am enjoying programming, helping Others, Contributing Open Source Project.
 </td>
 </tr>
 </table>  
-
-
 </table>
 <table border=0>
 <tr>
 <td valign="top" width="33%">
-  <img src="./mybanner2.jpg" align="center" style="width: 100%" />
+  <img src="./Huum.jpg" align="center" style="width: 100%" />
 <td/>
 <td valign="top" width="33%">
-  <img src="./mybanner2.jpg" align="center" style="width: 100%" />
+  <img src="./Kintex.jpg" align="center" style="width: 100%" />
 <td/>
 <td valign="top" width="33%">
-  <img src="./mybanner2.jpg" align="center" style="width: 100%" />
+  <img src="./USB-OTP.jpg" align="center" style="width: 100%" />
 <td/>
 </tr>
 </table>
