@@ -67,13 +67,13 @@ I am enjoying programming, helping Others, Contributing Open Source Project.
   Products
   </h2> 
 <td valign="top" width="33%">
-  <img src="./Huum.jpg" align="center" style="width: 100%" />
+  <img src="./IoT Device.jpg" align="center" style="width: 100%" />
 <td/>
 <td valign="top" width="33%">
-  <img src="./Kintex.jpg" align="center" style="width: 100%" />
+  <img src="./Xillinx.jpg" align="center" style="width: 100%" />
 <td/>
 <td valign="top" width="33%">
-  <img src="./USB-OTP.jpg" align="center" style="width: 100%" />
+  <img src="./PCB.jpg" align="center" style="width: 100%" />
 <td/>
 </tr>
 </table>
